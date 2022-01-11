@@ -46,7 +46,7 @@ const nomeDoArquivo = '../simpsons.json';
 
 fsWithPromise.readFile(nomeDoArquivo, 'utf8')
   .then((data) => {
-    console.log(`Conteúdo do arquivo: ${data}`);
+    console.log(`Conteúdo do arquivo: ${(JSON.parse(data).map(item => `${item.id} -${item.name} `))}`);
   })
   .catch((err) => {
     console.error(`Não foi possível ler o arquivo ${nomeDoArquivo}\n Erro: ${err}`);
