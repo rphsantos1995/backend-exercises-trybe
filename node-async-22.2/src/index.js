@@ -40,8 +40,6 @@ const getRandomWithAwait = async () => {
 
 // Exercício 4 -  
 const fsWithPromise = require('fs').promises;
-
-
 const nomeDoArquivo = '../simpsons.json';
 
 fsWithPromise.readFile(nomeDoArquivo, 'utf8')
