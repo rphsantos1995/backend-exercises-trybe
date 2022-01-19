@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon DrinkAndRecipes.js"
+    "dev": "nodemon ./express-http-exercises/exercises.js",
+    "start": "node ./express-http-exercises/exercises.js",
+    "custom": "nodemon DrinkAndRecipes.js"
   },
   "keywords": [],
   "author": "",

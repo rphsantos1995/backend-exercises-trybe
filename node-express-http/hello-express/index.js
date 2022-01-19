@@ -7,8 +7,8 @@ app.use(cors());
 app.get('/hello', handleHelloWorldRequest); // 2
 app.get('/', handleMainPageRequest);
 
-app.listen(3001, () => {
-  console.log('Aplicação ouvindo na porta 3001');
+app.listen(3000, () => {
+  console.log(new Date().toLocaleString(),'  Index - Aplicação ouvindo na porta 3000');
 }); // 3
 
 function handleHelloWorldRequest(req, res) {

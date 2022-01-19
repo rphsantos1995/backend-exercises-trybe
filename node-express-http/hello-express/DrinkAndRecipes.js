@@ -65,5 +65,5 @@ app.get('/validateToken', function (req, res) {
 });
 
 app.listen(3001, () => {
-  console.log(`${new Date().toLocaleString()} ,Aplicação ouvindo na porta 3001`);
+  console.log(`${new Date().toLocaleString()} DrinkAndRecipes ,Aplicação ouvindo na porta 3001`);
 });
