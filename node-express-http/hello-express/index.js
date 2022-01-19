@@ -1,10 +1,8 @@
 const express = require('express');
 const cors =require('cors');
 
-
 const app = express(); // 1
 app.use(cors());
-
 
 app.get('/hello', handleHelloWorldRequest); // 2
 app.get('/', handleMainPageRequest);
@@ -21,3 +19,6 @@ function handleHelloWorldRequest(req, res) {
 function handleMainPageRequest(req, res) {
   res.status(200).send(`Página inicial para testar esse express`);
 }
+
+
+
