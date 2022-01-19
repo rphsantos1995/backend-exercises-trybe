@@ -1,6 +1,10 @@
 const express = require('express');
+const cors =require('cors');
+
 
 const app = express(); // 1
+app.use(cors());
+
 
 app.get('/hello', handleHelloWorldRequest); // 2
 app.get('/', handleMainPageRequest);
