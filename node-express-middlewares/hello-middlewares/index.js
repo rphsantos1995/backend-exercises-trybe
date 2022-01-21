@@ -1,10 +1,21 @@
 const express = require('express');
+const authMiddleware = require('./auth-middleware');
 const cors =require('cors');
 const { validatePrice } = require('./validPrice.js');
 
-const app = express(); 
+const app = express();
+//https://stackoverflow.com/questions/47232187/express-json-vs-bodyparser-json 
 app.use(express.json());
 app.use(cors());
+
+
+app.get('/open', function (req, res) {
+  res.send('open!')
+});
+
+app.use(authMiddleware);
+
+
 
 const recipes = [
   { id: 1, name: 'Lasanha', price: 40.0, waitTime: 30 },
@@ -12,6 +23,9 @@ const recipes = [
   { id: 3, name: 'Macarrão com molho branco', price: 35.0, waitTime: 25 },
 ];
 
+app.get('/recipes', function (req, res) {
+ res.status(200).json(recipes);
+});
 
 app.post('/recipes', validatePrice, function (req, res) {
   const { id, name, price } = req.body;
@@ -34,3 +48,4 @@ app.put('/recipes/:id', validatePrice, function (req, res) {
 app.listen(3007, () => {
   console.log(`${new Date().toLocaleString()} DrinkAndRecipes ,Aplicação ouvindo na porta 3007`);
 });
+
