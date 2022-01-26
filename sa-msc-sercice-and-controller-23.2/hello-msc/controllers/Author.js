@@ -2,7 +2,7 @@
 const Author = require('../services/Authors');
 
 const findById = async (req, res) => {
-  const { id } = req.pasrams;
+  const { id } = req.params;
 
   const author = await Author.findById(id);
 
