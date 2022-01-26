@@ -8,14 +8,11 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-
 app.get('/open', function (req, res) {
   res.send('open!')
 });
 
 app.use(authMiddleware);
-
-
 
 const recipes = [
   { id: 1, name: 'Lasanha', price: 40.0, waitTime: 30 },
