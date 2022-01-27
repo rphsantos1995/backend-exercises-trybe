@@ -1,10 +1,10 @@
 // services/Authors.js
 
-const Author = require('../models/Authors');
+const Author = require('../models/Author');
 
 const getNewAuthor = (authorData) => {
-  const { id, firstName, middleName, lastName } = authorData;
 
+  const { id, firstName, middleName, lastName } =  authorData;
   const fullName = [firstName, middleName, lastName]
     .filter((name) => name)
     .join(' ');
@@ -16,6 +16,8 @@ const getNewAuthor = (authorData) => {
     lastName,
     name: fullName,
   };
+
+ 
 };
 
 const isValid = (firstName, middleName, lastName) => {
@@ -28,9 +30,14 @@ const isValid = (firstName, middleName, lastName) => {
 
 
 const getAll = async () => {
-  const authors = await Author.getAll();
+  try {
+    const authors = await Author.getAll();
+    return authors.map(getNewAuthor);
+    
+  } catch (err) {
+    console.log(err);
+  }
 
-  return authors.map(getNewAuthor);
 }
 
 const findById = async (id) => {
@@ -42,21 +49,31 @@ const findById = async (id) => {
 };
 
 const createAuthor = async (firstName, middleName, lastName) => {
-  const validAuthor = isValid(firstName, middleName, lastName);
 
-  if (!validAuthor) return false;
+  // try {
+    
+    const validAuthor = isValid(firstName, middleName, lastName);
+  
+    if (!validAuthor) return false;
+   const result = await Author.createAuthor(firstName, middleName, lastName);
+   const {id} =  result;
+  
+    // const [author] = await Author.createAuthor(firstName, middleName, lastName)
+  
+    // authorId = author.insertId;
+  
+    return getNewAuthor({
+      // id: authorId ,
+      id,
+      firstName, middleName, 
+      lastName 
+    });
 
-  await Author.createAuthor(firstName, middleName, lastName);
+  // } catch (err) {
+  //     console.log(err);
+  // }
 
-  const [author] = await Author.createAuthor(firstName, middleName, lastName)
 
-  authorId = author.insertId;
-
-  return getNewAuthor({
-    id: authorId ,
-    firstName, middleName, 
-    lastName 
-  });
 };
 
 module.exports = {

@@ -12,13 +12,20 @@ const findById = async (req, res) => {
 }
 
 const createAuthor = async (req, res) => {
-  const { first_name, middle_name, last_name } = req.body;
+  // try {
+    const { first_name, middle_name, last_name } = req.body;
+  
+    const author = await Author.createAuthor(first_name, middle_name, last_name);
+  
+    if (!author) return res.status(400).json({ message: 'Dados inválidos' });
+  
+    res.status(201).json(author);
+    
+  // } catch (err) {
+  //     console.log(err);
+  // }
 
-  const author = await Author.createAuthor(first_name, middle_name, last_name);
 
-  if (!author) return res.status(400).json({ message: 'Dados inválidos' });
-
-  res.status(201).json(author);
 }
 
 const getAll = async (_req, res) => {
