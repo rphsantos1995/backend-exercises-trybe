@@ -1,0 +1,40 @@
+
+
+
+
+https://api.trello.com/1/members/me/boards?key=f069c905a436d3476a272ebe8438a326&token=1311177a91ad541acfbbab70a31fc30bda0f8e101c6c693126d859ff42dcc582
+
+key
+
+f069c905a436d3476a272ebe8438a326
+
+token
+
+c74923bf723bdfb7673ccc4ac081b2358eb8e83c731e73067aa267ee206d1faf
+
+
+
+
+
+curl 'https://api.trello.com/1/members/me/boards?key={f069c905a436d3476a272ebe8438a326}&token={c74923bf723bdfb7673ccc4ac081b2358eb8e83c731e73067aa267ee206d1faf}'
+
+
+'https://api.trello.com/1/members/me/boards?key=f069c905a436d3476a272ebe8438a326&token=c74923bf723bdfb7673ccc4ac081b2358eb8e83c731e73067aa267ee206d1faf'
+
+
+
+
+
+Get all boards from member token ---> 
+
+fetch('https://api.trello.com/1/members/me/boards?key=f069c905a436d3476a272ebe8438a326&token=c74923bf723bdfb7673ccc4ac081b2358eb8e83c731e73067aa267ee206d1faf').then(response => response.json()).then(data => console.log(data));
+
+
+Get all list from a specific board --->
+
+fetch('https://api.trello.com/1/boards/5ea6277fd5767f7a07aef32f/lists?key=f069c905a436d3476a272ebe8438a326&token=c74923bf723bdfb7673ccc4ac081b2358eb8e83c731e73067aa267ee206d1faf').then(response => response.json()).then(data => console.log(data));
+
+5ea6277fd5767f7a07aef32f
+
+
+

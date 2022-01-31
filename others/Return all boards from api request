@@ -1,0 +1,2013 @@
+Return all boards from api request
+
+[
+    {
+        "name": "Frontend Online Store - Grupo 21",
+        "desc": "",
+        "descData": null,
+        "closed": false,
+        "dateClosed": null,
+        "idOrganization": "6144d78268974e8aa7e79c17",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "JlbWct3O",
+        "powerUps": [],
+        "dateLastActivity": "2021-11-22T23:07:51.064Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": "5f70e0b5039507064fa08c47",
+        "idMemberCreator": "6144d73ee025c83529a150fe",
+        "id": "6144d78268974e8aa7e79c1f",
+        "starred": false,
+        "url": "https://trello.com/b/JlbWct3O/frontend-online-store-grupo-21",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "blue",
+            "backgroundImage": null,
+            "backgroundImageScaled": null,
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundColor": "#0079BF",
+            "backgroundBottomColor": "#0079BF",
+            "backgroundTopColor": "#0079BF",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Prioridade 05",
+            "yellow": "Prioridade 03",
+            "orange": "Prioridade 02",
+            "red": "Prioridade 0",
+            "purple": "Prioridade 01",
+            "blue": "Prioridade 04",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": "TELA DE LOGIN"
+        },
+        "dateLastView": "2021-11-17T15:14:15.134Z",
+        "shortUrl": "https://trello.com/b/JlbWct3O",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "6144d78368974e8aa7e79ebc",
+                "idMember": "6144d73ee025c83529a150fe",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "6144d7aaa6668b739d1a2b26",
+                "idMember": "6144d7463a2b5e0b10c28a3e",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "6144d8328ed2aa80c5173086",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "6144d90bfa2dc282e18e7ebd",
+                "idMember": "6144cf23adb6db16aa55a0c0",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "6144f50ee90df7067ee37c42",
+                "idMember": "6144e0956ceec66b35106ff2",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "General stuff",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2020-10-23T01:35:31.258Z",
+        "idOrganization": null,
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "Yuy0bpqY",
+        "powerUps": [],
+        "dateLastActivity": "2020-04-12T19:41:06.121Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5d99833dbeccb039b3d9773a",
+        "starred": false,
+        "url": "https://trello.com/b/Yuy0bpqY/general-stuff",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5c05949e56128f6be0eb77eb",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/88e838b91d639d5f22a139df97ee60ff/photo-1526374965328-7f61d4dc18c5",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 93,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/cdd62e9865b881bf1347855773767c87/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 171,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/f9f38be9851a845c69206a5492ebd8c0/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/90e754cf0d1cb298eef39ed3d0a7a12d/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 640,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/f6b1006781eeb42238b7f1e437f3dea9/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 683,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/9066ebdc0816f6f84fb02e6c4d2d700b/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1366,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/8c9f7da741f52dc464cc6f2b68c52174/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 854,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/1a902031fba576b4ed5988c4315cf9e0/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/792724ca7c85ede925e8cddab4ba5572/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 2400,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/797a734d00f3e31e3e5ee55ed759b83f/photo-1526374965328-7f61d4dc18c5.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1707,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/88e838b91d639d5f22a139df97ee60ff/photo-1526374965328-7f61d4dc18c5"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#091108",
+            "backgroundTopColor": "#0d1a0a",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "Back_end",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": "Urgente"
+        },
+        "dateLastView": "2020-10-23T01:35:33.252Z",
+        "shortUrl": "https://trello.com/b/Yuy0bpqY",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5d99833dbeccb039b3d9773b",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Grupo 21 - Online store",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2021-09-17T18:03:03.723Z",
+        "idOrganization": "60d9e2963045c6734cb6b0d9",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "GONHLqdl",
+        "powerUps": [],
+        "dateLastActivity": "2021-09-17T17:37:57.686Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "6144cdef18a0693fc73ebef8",
+        "starred": false,
+        "url": "https://trello.com/b/GONHLqdl/grupo-21-online-store",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "6144b9016431ce64aa266166",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/db0b12d92cc2c044738392f3657a6b22/photo-1631641551473-fbe46919289d",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 93,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 171,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 641,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x641/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 683,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1366,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 854,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1281,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1281/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 2398,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2398x1600/ae7c01c1339e4d69fe5a9c55b829e954/photo-1631641551473-fbe46919289d.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1708,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/db0b12d92cc2c044738392f3657a6b22/photo-1631641551473-fbe46919289d"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#090906",
+            "backgroundTopColor": "#0c0704",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Prioridade 05",
+            "yellow": "Prioridade 03",
+            "orange": "Prioridade 02",
+            "red": "Prioridade 0",
+            "purple": "Prioridade 01",
+            "blue": "Prioridade 04",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": ""
+        },
+        "dateLastView": "2021-09-17T18:00:57.093Z",
+        "shortUrl": "https://trello.com/b/GONHLqdl",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "6144cdef18a0693fc73ebef9",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "6144cf270fe52c55c72061d5",
+                "idMember": "6144cf23adb6db16aa55a0c0",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "INTENSIVO[PC - PRF]",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2021-06-17T04:19:28.440Z",
+        "idOrganization": null,
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "8OZRpNow",
+        "powerUps": [],
+        "dateLastActivity": "2020-10-23T01:41:40.162Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": "assisted",
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5d98ccc07dd0e418d56da216",
+        "starred": false,
+        "url": "https://trello.com/b/8OZRpNow/intensivopc-prf",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5d94d83aeae8fe7fe2f8f154",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1622/f99bb17dca656a756d98574e6380785a/photo-1569951707784-04494c5ed864",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 89,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x89/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 162,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x162/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 304,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x304/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 608,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x608/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 649,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x649/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1298,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1298/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 811,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x811/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1217,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1217/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 2525,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2525x1600/1114e8ab66a479d63b87409e968796a2/photo-1569951707784-04494c5ed864.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1622,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1622/f99bb17dca656a756d98574e6380785a/photo-1569951707784-04494c5ed864"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#23282f",
+            "backgroundTopColor": "#9fafb6",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Direito Administrativo",
+            "yellow": "Direito Constitucional",
+            "orange": "Legislação especial",
+            "red": "Português",
+            "purple": "Administração Pública",
+            "blue": "processual penal",
+            "sky": "Redação",
+            "lime": "Informática",
+            "pink": "Revisar conteúdo",
+            "black": "direito penal"
+        },
+        "dateLastView": "2021-06-17T04:19:17.612Z",
+        "shortUrl": "https://trello.com/b/8OZRpNow",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5d98ccc07dd0e418d56da217",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "ITENSIVO SG - 20/09",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2020-08-25T01:15:34.343Z",
+        "idOrganization": null,
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "5uAfXLQ3",
+        "powerUps": [],
+        "dateLastActivity": "2020-08-09T14:46:48.041Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5f2918e01a84ff326fe04bc6",
+        "starred": false,
+        "url": "https://trello.com/b/5uAfXLQ3/itensivo-sg-20-09",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "blue",
+            "backgroundImage": null,
+            "backgroundImageScaled": null,
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundColor": "#0079BF",
+            "backgroundBottomColor": "#0079BF",
+            "backgroundTopColor": "#0079BF",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": ""
+        },
+        "dateLastView": "2020-08-25T01:15:36.089Z",
+        "shortUrl": "https://trello.com/b/5uAfXLQ3",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5f2918e01a84ff326fe04bc7",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Project App's de Receitas - Grupo 10",
+        "desc": "Aqui você vai encontrar o card com todos os requisitos, o primeiro requisito de cada tela contém uma etiqueta.\n\nLembre-se: vocês serão responsáveis por criar as prioridades!\n\nBom projeto pra todos!",
+        "descData": null,
+        "closed": false,
+        "dateClosed": null,
+        "idOrganization": "615120cb68208331c459c55b",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "7Yu0sbpO",
+        "powerUps": [],
+        "dateLastActivity": "2021-11-25T21:52:01.493Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": "5fb5d12cac31ff8570e5961b",
+        "idMemberCreator": "60cf8a3de6ae007af0f9a065",
+        "id": "618571aaa6bdbd394d5fa1c0",
+        "starred": false,
+        "url": "https://trello.com/b/7Yu0sbpO/project-apps-de-receitas-grupo-10",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5c05d3ba674e3e2f59d75afc",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/35f2880e19420eb574343ba246cfb9b3/photo-1504674900247-0877df9cc836",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 93,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/20b0796baf59bbd154797c338da0a8d7/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 171,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/25fe30769d2c72828ba1a79b7a0b3c10/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/508a007f1d3900dd1c42d966aeafb79b/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 640,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/03c96e3431f9c105ecb777385dc27354/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 683,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/29c0e85066b2f71839e08455ade5bef1/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1366,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/a713fdefd1039aeb9836d2c238167312/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 854,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/acf2fc34240e34df2a2ef7a214c19f51/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/779f3f074ec8bd2df76891b473410194/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 2400,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/9ff0621cf1645f1f34c572704aa1fae2/photo-1504674900247-0877df9cc836.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1707,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/35f2880e19420eb574343ba246cfb9b3/photo-1504674900247-0877df9cc836"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#524a44",
+            "backgroundTopColor": "#a09790",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Detalhes da receita",
+            "yellow": "Explorar comidas e bebidas",
+            "orange": "Perfil",
+            "red": "Impedimento",
+            "purple": "Receitas favoritas",
+            "blue": "Testes unitários",
+            "sky": "Explorar ingredientes",
+            "lime": "Explorar",
+            "pink": "Footer",
+            "black": "Lista de receitas"
+        },
+        "dateLastView": "2021-11-22T19:55:25.994Z",
+        "shortUrl": "https://trello.com/b/7Yu0sbpO",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "618571aaa6bdbd394d5fa387",
+                "idMember": "60cf8a3de6ae007af0f9a065",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "618571d814056d528754dee0",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "618571d980d99d278edf3b1b",
+                "idMember": "6144d7463a2b5e0b10c28a3e",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "6185790a5b6e4b8a30b78f78",
+                "idMember": "6144e1d00ee67c7c0ed0bbbf",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "6189a71a4eacce1dcfc0b3df",
+                "idMember": "61014cd64c2af86296edef6f",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Projeto Esfinge",
+        "desc": "",
+        "descData": null,
+        "closed": false,
+        "dateClosed": null,
+        "idOrganization": "5e9204db3dae515e2270baae",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "vXsfIect",
+        "powerUps": [],
+        "dateLastActivity": "2020-04-15T20:56:32.328Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5e91dc9f02a252600c76392f",
+        "starred": false,
+        "url": "https://trello.com/b/vXsfIect/projeto-esfinge",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5d948e48dd1ee17a88b2da71",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/1eef715a621f797259658cdf41b7545c/photo-1568805778931-55d6b0891c49",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 93,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 171,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 640,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 683,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1366,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 854,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 2400,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/b0809fb9322e9f6c857658f8276515df/photo-1568805778931-55d6b0891c49.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1707,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/1eef715a621f797259658cdf41b7545c/photo-1568805778931-55d6b0891c49"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#071111",
+            "backgroundTopColor": "#506155",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Front_end",
+            "yellow": "",
+            "orange": "",
+            "red": "Back_end",
+            "purple": "Arte - Cenário",
+            "blue": "",
+            "sky": "Narrativa",
+            "lime": "",
+            "pink": "Arte - Personagens",
+            "black": "Urgente"
+        },
+        "dateLastView": "2021-10-28T23:42:04.438Z",
+        "shortUrl": "https://trello.com/b/vXsfIect",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5e91dc9f02a252600c763930",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "5e920891f12f84548aa21ee1",
+                "idMember": "5e92083fde892483e694d81b",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "5e92089c0abc4f185adf2238",
+                "idMember": "5e920860f6e8dd6ede160c78",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "5e921915e0dcb33ef1ba95a4",
+                "idMember": "5e921915e0dcb33ef1ba959a",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "5e9616d12b4a2b45bf620a35",
+                "idMember": "5e9616d12b4a2b45bf620a2c",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Roadmap",
+        "desc": "",
+        "descData": null,
+        "closed": false,
+        "dateClosed": null,
+        "idOrganization": "5e9204db3dae515e2270baae",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "HvJOrO0Z",
+        "powerUps": [],
+        "dateLastActivity": "2021-11-28T23:13:09.122Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "610037d663362e68ab5125a3",
+        "starred": false,
+        "url": "https://trello.com/b/HvJOrO0Z/roadmap",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "610033443f6c736cf5cb69f8",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/475eefee97cdefc252aed673995e65ae/photo-1627212224531-5241828d0f6d",
+            "backgroundImageScaled": [
+                {
+                    "width": 67,
+                    "height": 100,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/67x100/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 128,
+                    "height": 192,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/128x192/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 320,
+                    "height": 480,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/320x480/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 640,
+                    "height": 960,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/640x960/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 683,
+                    "height": 1024,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/683x1024/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 853,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/853x1280/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 1920,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1920/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 1066,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1066x1600/18f1195c2d5955156d2de95569befd33/photo-1627212224531-5241828d0f6d.jpg"
+                },
+                {
+                    "width": 1365,
+                    "height": 2048,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/475eefee97cdefc252aed673995e65ae/photo-1627212224531-5241828d0f6d"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#25231f",
+            "backgroundTopColor": "#7b6f71",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Mobile",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "Review",
+            "black": "Roadmap"
+        },
+        "dateLastView": "2021-11-29T00:54:14.471Z",
+        "shortUrl": "https://trello.com/b/HvJOrO0Z",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "610037d663362e68ab5125a4",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "SP",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2020-02-06T01:30:19.156Z",
+        "idOrganization": null,
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "sw1S9bbt",
+        "powerUps": [],
+        "dateLastActivity": null,
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5e3b5a6d9796063aa1bbebd5",
+        "starred": false,
+        "url": "https://trello.com/b/sw1S9bbt/sp",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5e3b343409aa166a8d65fd6f",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/e0182bfd1aafbf1e61e19ba08a48770b/photo-1580791950065-32299fd449ac",
+            "backgroundImageScaled": [
+                {
+                    "width": 66,
+                    "height": 100,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/66x100/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 128,
+                    "height": 192,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/128x192/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 319,
+                    "height": 480,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/319x480/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 638,
+                    "height": 960,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/638x960/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 680,
+                    "height": 1024,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/680x1024/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 850,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/850x1280/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 1275,
+                    "height": 1920,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1275x1920/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 1063,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1063x1600/594fe65edee0765e7b9504e9561c6c6e/photo-1580791950065-32299fd449ac.jpg"
+                },
+                {
+                    "width": 1360,
+                    "height": 2048,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/e0182bfd1aafbf1e61e19ba08a48770b/photo-1580791950065-32299fd449ac"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#4e3c3e",
+            "backgroundTopColor": "#7c6057",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": ""
+        },
+        "dateLastView": "2020-02-06T01:30:21.029Z",
+        "shortUrl": "https://trello.com/b/sw1S9bbt",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5e3b5a6d9796063aa1bbebd6",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Template Kanban",
+        "desc": "Use este modelo simples do Kanban para manter a equipe de engenharia na mesma página e seguir o trabalho com fluidez.\n\n1. Divida o roteiro adicionando tarefas como cartões à lista ** Backlog **.\n\n2. Mova os cartões um por um através de ** Design ** à medida que se tornam mais detalhados. * Dica profissional: * Você pode ativar os Power-ups para suas ferramentas de design favoritas, como [Figma] (https://trello.com/power-ups/59b2e7611e6ece0b35eac16a/figma) ou [Invision] (https://trello.com/ power-ups / 596f2cb2d279152540b2bb31), para vincular e visualizar projetos com facilidade, sem alternar o contexto.\n\n3. Quando um cartão estiver totalmente especificada e os designs estiverem anexados, mova-a para ** Tarefa ** para que os engenheiros atendam.\n\n4. Os engenheiros movem as cartas para ** Fazendo ** e se atribuem às cartas, para que toda a equipe fique informada de quem está trabalhando no quê.\n\n5. Os cartões passam pela ** Revisão de Código ** quando estão prontos para um segundo par de olhos. A equipe pode definir um ** Limite de lista ** (com a ativação do limite de lista) no número de cartões na Revisão de código, como um indicador visual de quando a equipe precisa priorizar as revisões em vez de escolher um novo trabalho.\n\n6. Depois que os cartões passarem pelo ** Teste ** e, eventualmente, forem enviados para a produção, mova-os para ** Concluídos ** e comemore!",
+        "descData": null,
+        "closed": false,
+        "dateClosed": null,
+        "idOrganization": "5e9204db3dae515e2270baae",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "B9sM8x0i",
+        "powerUps": [],
+        "dateLastActivity": "2021-06-28T15:01:35.029Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": "5e6005486e20e75989cf97e4",
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "60d9e44d4f660d4e8c175a12",
+        "starred": false,
+        "url": "https://trello.com/b/B9sM8x0i/template-kanban",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5dfa855f31b76a80318febaf",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/d71b9370b4cba91634ae4ffe331fb59a/photo-1576502200916-3808e07386a5",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 94,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x94/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 172,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x172/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 322,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x322/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 644,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x644/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 687,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x687/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1374,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1374/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 859,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x859/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1288,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1288/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 2386,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2386x1600/47f09f0e3910259568294477d0bdedac/photo-1576502200916-3808e07386a5.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1717,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/d71b9370b4cba91634ae4ffe331fb59a/photo-1576502200916-3808e07386a5"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "light",
+            "backgroundBottomColor": "#068faa",
+            "backgroundTopColor": "#ddaba7",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": ""
+        },
+        "dateLastView": "2021-07-27T16:43:26.277Z",
+        "shortUrl": "https://trello.com/b/B9sM8x0i",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "60d9e44e4f660d4e8c175c0a",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Trivia Redux - Grupo 8",
+        "desc": "O Trello pode ser usado para qualquer tipo de projeto que você possa imaginar. Ele é perfeito para organizar, monitorar, armazenar e compartilhar. Este quadro é chamado de Trivia React Redux é composto por cartões e listas. Você poderá criar quantos itens quiser! É possível adicionar, arrastar e clicar em cartões para personalizar este quadro.\n\nTags vermelhas = Prioridade 0\nTags amarelas = Prioridade 1\nTags verdes = Prioridade 2\nSem tag = Prioridade 3\n\n**Atenção: Essa é apenas uma sugestão de organização, caso sinta necessidade de alterar, converse com seu grupo** \n\nAgora você já sabe todas as informações necessárias está pronto para continuar!\n",
+        "descData": null,
+        "closed": false,
+        "dateClosed": null,
+        "idOrganization": "60d9e2963045c6734cb6b0d9",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "lPwZwfvW",
+        "powerUps": [],
+        "dateLastActivity": "2021-10-25T22:53:47.679Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": "5fa0c656170d80716d36aa15",
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "6170534a3adca221385af058",
+        "starred": false,
+        "url": "https://trello.com/b/lPwZwfvW/trivia-redux-grupo-8",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5f9fab3ac029df645f96296e",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/64fef567fddb0ffad99e7b32ff6823c0/photo-1604213410393-89f141bb96b8",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 93,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 171,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 640,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 683,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1366,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 854,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 2400,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/f83251a75f09041fa31badbdf2cab8d4/photo-1604213410393-89f141bb96b8.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1707,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/64fef567fddb0ffad99e7b32ff6823c0/photo-1604213410393-89f141bb96b8"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#0a331e",
+            "backgroundTopColor": "#173723",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "TELA DE JOGO",
+            "blue": "Tela de jogo",
+            "sky": "TELA DE RANKING",
+            "lime": "TELA DE FEEDBACK",
+            "pink": "",
+            "black": "TELA DE LOGIN"
+        },
+        "dateLastView": "2021-10-26T00:37:22.465Z",
+        "shortUrl": "https://trello.com/b/lPwZwfvW",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "6170534a3adca221385af0ec",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "61705398edb96c4f4c4a235f",
+                "idMember": "6144d5a015fb957bd80e76b0",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "61705399fc63003f9434f395",
+                "idMember": "6144ce1ddaf4492c4528a412",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "617053991667988bd1e3d34e",
+                "idMember": "61241f44798a2d7eb09e9a67",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            },
+            {
+                "id": "617053bd7d3d550297845764",
+                "idMember": "5bc7605bb6c36a7ca8f7695e",
+                "memberType": "normal",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Vendas online - Marketing",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2021-06-17T04:19:42.922Z",
+        "idOrganization": null,
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "WiiwofmA",
+        "powerUps": [],
+        "dateLastActivity": "2020-09-02T02:25:02.374Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5dd1b448dc88f525d512ba4c",
+        "starred": false,
+        "url": "https://trello.com/b/WiiwofmA/vendas-online-marketing",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5c0588438287795a1fef0468",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/4e60afea90d4074065c74614429f8f86/photo-1504805572947-34fad45aed93",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 93,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/8ff2c8f11d04326f240dc352d942a6a8/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 171,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/92c884e79104451f43d9e40bf08d943f/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/86d9d00355a89240d2d630d55522ad5b/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 640,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/99c2471dde4a618c67f139705764a1aa/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 683,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/33654f38a87067898e76a8fcc0035da6/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1366,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/689ac36644f2e651d98057e78f6a0dbc/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 854,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/e47f7c6383fcbc84894737f69ebd4cca/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/60fcf422c6147e46c98db7144de63411/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 2400,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/ee4afc28fad7c7932339b3278f4e185a/photo-1504805572947-34fad45aed93.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1707,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/4e60afea90d4074065c74614429f8f86/photo-1504805572947-34fad45aed93"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#040404",
+            "backgroundTopColor": "#040404",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": ""
+        },
+        "dateLastView": "2021-06-17T04:19:36.562Z",
+        "shortUrl": "https://trello.com/b/WiiwofmA",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5dd1b448dc88f525d512ba4d",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Weekendly Routine",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2020-04-27T01:32:35.592Z",
+        "idOrganization": null,
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "C622V7uY",
+        "powerUps": [],
+        "dateLastActivity": "2020-04-12T19:43:47.692Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5e920b034b59e349b908b40a",
+        "starred": false,
+        "url": "https://trello.com/b/C622V7uY/weekendly-routine",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5d726eb2892a9724fb487f27",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/fd04ad3cc7d6529071cbc2772aaad653/photo-1567710726315-8e6d7d0072e7",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 93,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 171,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 640,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 683,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1366,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 854,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 2400,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/8bcce7b0a78494c5d6153f6749a92cbb/photo-1567710726315-8e6d7d0072e7.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1707,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1707/fd04ad3cc7d6529071cbc2772aaad653/photo-1567710726315-8e6d7d0072e7"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "light",
+            "backgroundBottomColor": "#5f8265",
+            "backgroundTopColor": "#b1e0f4",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "",
+            "yellow": "",
+            "orange": "",
+            "red": "",
+            "purple": "",
+            "blue": "",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": ""
+        },
+        "dateLastView": "2020-04-27T01:32:37.133Z",
+        "shortUrl": "https://trello.com/b/C622V7uY",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5e920b034b59e349b908b40b",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "Weekly Goals",
+        "desc": "",
+        "descData": null,
+        "closed": true,
+        "dateClosed": "2020-04-10T05:46:44.632Z",
+        "idOrganization": null,
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "MPPIt1Yu",
+        "powerUps": [],
+        "dateLastActivity": "2020-04-10T05:46:27.619Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5e3b68b0348a8a58b9dbcda0",
+        "starred": false,
+        "url": "https://trello.com/b/MPPIt1Yu/weekly-goals",
+        "prefs": {
+            "permissionLevel": "private",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": false,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "regular",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5e8cb258aea5178afe5bcc8f",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/9ee51c13aef92d732467eab7b22af0d0/photo-1586201254457-6a877c6dbdf4",
+            "backgroundImageScaled": [
+                {
+                    "width": 67,
+                    "height": 100,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/67x100/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 128,
+                    "height": 192,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/128x192/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 320,
+                    "height": 480,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/320x480/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 640,
+                    "height": 960,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/640x960/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 683,
+                    "height": 1024,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/683x1024/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 853,
+                    "height": 1280,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/853x1280/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 1920,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1920/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 1066,
+                    "height": 1600,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1066x1600/d43e685eddeb501f1f7e5fa843e90382/photo-1586201254457-6a877c6dbdf4.jpg"
+                },
+                {
+                    "width": 1365,
+                    "height": 2048,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/9ee51c13aef92d732467eab7b22af0d0/photo-1586201254457-6a877c6dbdf4"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#0c0f14",
+            "backgroundTopColor": "#1b232c",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Direito Administrativo",
+            "yellow": "Direito Penal",
+            "orange": "Direito Processual Penal",
+            "red": "",
+            "purple": "",
+            "blue": "Direito Constitucional",
+            "sky": "",
+            "lime": "",
+            "pink": "",
+            "black": ""
+        },
+        "dateLastView": "2020-04-10T05:46:46.460Z",
+        "shortUrl": "https://trello.com/b/MPPIt1Yu",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5e3b68b0348a8a58b9dbcda1",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    },
+    {
+        "name": "inLife",
+        "desc": "",
+        "descData": null,
+        "closed": false,
+        "dateClosed": null,
+        "idOrganization": "5e9204db3dae515e2270baae",
+        "idEnterprise": null,
+        "limits": null,
+        "pinned": null,
+        "shortLink": "kouyg22e",
+        "powerUps": [],
+        "dateLastActivity": "2021-12-05T00:30:45.881Z",
+        "idTags": [],
+        "datePluginDisable": null,
+        "creationMethod": null,
+        "ixUpdate": null,
+        "enterpriseOwned": false,
+        "idBoardSource": null,
+        "idMemberCreator": "5d98cc1cb03336419ae98f41",
+        "id": "5ea6277fd5767f7a07aef32f",
+        "starred": false,
+        "url": "https://trello.com/b/kouyg22e/inlife",
+        "prefs": {
+            "permissionLevel": "org",
+            "hideVotes": false,
+            "voting": "disabled",
+            "comments": "members",
+            "invitations": "members",
+            "selfJoin": true,
+            "cardCovers": true,
+            "isTemplate": false,
+            "cardAging": "pirate",
+            "calendarFeedEnabled": false,
+            "isPluginHeaderShortcutsEnabled": false,
+            "enabledPluginBoardButtons": [],
+            "background": "5c384b69e6803c0c00c5592f",
+            "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1292/34acac0d7f164c2469653ac1bebc5897/photo-1546900703-cf06143d1239",
+            "backgroundImageScaled": [
+                {
+                    "width": 140,
+                    "height": 71,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x71/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 256,
+                    "height": 129,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x129/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 480,
+                    "height": 242,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x242/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 960,
+                    "height": 485,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x485/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 1024,
+                    "height": 517,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x517/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 2048,
+                    "height": 1034,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1034/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 1280,
+                    "height": 646,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x646/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 1920,
+                    "height": 969,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x969/106e856cccd8f040e3e8253ce41c5274/photo-1546900703-cf06143d1239.jpg"
+                },
+                {
+                    "width": 2560,
+                    "height": 1292,
+                    "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1292/34acac0d7f164c2469653ac1bebc5897/photo-1546900703-cf06143d1239"
+                }
+            ],
+            "backgroundTile": false,
+            "backgroundBrightness": "dark",
+            "backgroundBottomColor": "#2b1d16",
+            "backgroundTopColor": "#38231b",
+            "canBePublic": true,
+            "canBeEnterprise": true,
+            "canBeOrg": true,
+            "canBePrivate": true,
+            "canInvite": true
+        },
+        "subscribed": false,
+        "labelNames": {
+            "green": "Estudo",
+            "yellow": "Trybe",
+            "orange": "Soft skills",
+            "red": "Importante",
+            "purple": "Projeto",
+            "blue": "Epic",
+            "sky": "Psi",
+            "lime": "Dúvidas",
+            "pink": "Arrow project",
+            "black": "Trabalho em grupo"
+        },
+        "dateLastView": "2021-12-05T00:30:45.920Z",
+        "shortUrl": "https://trello.com/b/kouyg22e",
+        "templateGallery": null,
+        "premiumFeatures": [
+            "additionalBoardBackgrounds",
+            "additionalStickers",
+            "customBoardBackgrounds",
+            "customEmoji",
+            "customStickers",
+            "plugins"
+        ],
+        "memberships": [
+            {
+                "id": "5ea6277fd5767f7a07aef330",
+                "idMember": "5d98cc1cb03336419ae98f41",
+                "memberType": "admin",
+                "unconfirmed": false,
+                "deactivated": false
+            }
+        ]
+    }
+]
