@@ -5,7 +5,7 @@ module.exports = (sequelize, DataTypes) => {
     city: DataTypes.STRING,
     street: DataTypes.STRING,
     number: DataTypes.INTEGER,
-    employeeId: { type: DataTypes.INTEGER, foreignKey: true },
+    // employeeId: { type: DataTypes.INTEGER, foreignKey: true },
     // A declaração da Foreign Key é opcional no model
   },
   {
@@ -16,7 +16,7 @@ module.exports = (sequelize, DataTypes) => {
 
   Address.associate = (models) => {
     Address.belongsTo(models.Employee,
-      { foreignKey: 'employee_id', as: 'employees' });
+      { foreignKey: 'employee_id', as: 'addresses' });
   };
 
   return Address;
