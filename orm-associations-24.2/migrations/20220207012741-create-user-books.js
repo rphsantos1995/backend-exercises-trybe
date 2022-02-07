@@ -1,4 +1,3 @@
-// cole esse código dentro do arquivo da migration "user-books"
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {

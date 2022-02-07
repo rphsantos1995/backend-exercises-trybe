@@ -1,4 +1,3 @@
-// models/UserBook.js
 module.exports = (sequelize, _DataTypes) => {
   const UserBook = sequelize.define('UserBook',
     {},

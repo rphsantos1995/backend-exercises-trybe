@@ -1,5 +1,3 @@
-// cole esse código dentro do arquivo da migration "users"
-
 module.exports = {
   up: async (queryInterface, Sequelize) => {
     await queryInterface.createTable('Users', {
