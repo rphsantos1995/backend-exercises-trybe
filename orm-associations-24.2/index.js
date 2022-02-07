@@ -48,37 +48,67 @@ app.get('/employees/:id', async (req, res) => {
 });
 
 
+// Unmaneged transaction
+// app.post('/employees', async (req, res) => {
+
+//   const t = await sequelize.transaction();
+
+//   try {
+//     const { firstName, lastName, age, city, street, number } = req.body;
+
+//     const employee = await Employee.create(
+//       { firstName, lastName, age },
+//       { transaction: t },
+//     );
+
+//     await Address.create(
+//       { city, street, number, employeeId: employee.id },
+//       { transaction: t },
+//     );
+
+//     // if method new Register runs without errors
+//     // the transaction can be ended with commit function
+//     await t.commit();
+
+//     return res.status(201).json({ message: 'Cadastrado com sucesso' });
+//   } catch (e) {
+//     // on catch error, the rollback function revert all changes
+    
+//     await t.rollback();
+//     console.log(e.message);
+//     res.status(500).json({ message: 'Algo deu errado' });
+//   }
+// });
+
+
+// Managed transaction
+
 app.post('/employees', async (req, res) => {
-
-  const t = await sequelize.transaction();
-
   try {
     const { firstName, lastName, age, city, street, number } = req.body;
 
-    const employee = await Employee.create(
-      { firstName, lastName, age },
-      { transaction: t },
-    );
+    const result = await sequelize.transaction(async (t) => {
+      const employee = await Employee.create({
+        firstName, lastName, age
+      }, { transaction: t });
 
-    await Address.create(
-      { city, street, number, employeeId: employee.id },
-      { transaction: t },
-    );
+      await Address.create({
+        city, street, number, employeeId: employee.id
+      }, { transaction: t });
 
-    // if method new Register runs without errors
-    // the transaction can be ended with commit function
-    await t.commit();
+      return res.status(201).json({ message: 'Cadastrado com sucesso' });
+    });
 
-    return res.status(201).json({ message: 'Cadastrado com sucesso' });
+    // register happens without errors
+   
+    // `result` has the transaction result, employee and adress created in db
   } catch (e) {
-    // on catch error, the rollback function revert all changes
-    
-    await t.rollback();
+    // register happens with errors
+    // without the need to write rollback functions, all the db changes ill be reverted
     console.log(e.message);
     res.status(500).json({ message: 'Algo deu errado' });
   }
 });
-
 
 
 
