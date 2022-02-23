@@ -1,4 +1,3 @@
-// models/Employee.js
 module.exports = (sequelize, DataTypes) => {
   const Employee = sequelize.define('Employee', {
     id: { type: DataTypes.INTEGER, primaryKey: true, autoIncrement: true },
@@ -13,7 +12,7 @@ module.exports = (sequelize, DataTypes) => {
   });
 
   Employee.associate = (models) => {
-    Employee.hasOne(models.Address,
+    Employee.hasMany(models.Address, // considering an employee with more than 1 adress
       { foreignKey: 'employee_id', as: 'addresses' });
   };
 
