@@ -1,7 +1,3 @@
- Here is compiled all backend exercises from trybe course
-
-The main purpose of this docs is to create an overview about some basic backend knowledge, recap its chapters and hopefully help people clarify some questions.
-
 # Sql Introduction
 
 ## What's SQL?
