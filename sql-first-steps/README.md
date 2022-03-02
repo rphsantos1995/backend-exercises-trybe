@@ -88,7 +88,7 @@ Uma tabela que representa algum conceito do mundo real que você quer descrever 
 - One to One Relationship (1:1): 
 It is used to create a relationship between two tables in which a single row of the first table can only be related to one and only one records of a second table. Similarly, the row of a second table can also be related to anyone row of the first table.
 
-![image info](/pictures/one-to-one.png)
+![image info](pictures/one-to-one.png)
 
 
 - One to Many Relationship: 
@@ -100,11 +100,15 @@ It is used to create a relationship between two tables. Any single rows of the f
 - Many to Many Relationship: 
 It is many to many relationships that create a relationship between two tables. Each record of the first table can relate to any records (or no records) in the second table. Similarly, each record of the second table can also relate to more than one record of the first table. It is also represented an N:N relationship.
 
-![image info](/pictures/many-to-many.png)
+![image info](pictures/many-to-many.png)
+
+[Image source](https://vladmihalcea.com/database-table-relationships/)
 
 ## Database manipulation
 
 On conditional update and deletion, you can pass a 'where id <> 0' parameter to bypass the safe updates mode
+
+The sakila db can be found at https://dev.mysql.com/doc/index-other.html
 
 ```sql
 UPDATE sakila.staff
