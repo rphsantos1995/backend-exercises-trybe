@@ -17,7 +17,7 @@ Allows returning all results in which the condition of the ON clause is satisfie
 
   
 
-code snipet:
+code snippet:
 
 ```sql
 
@@ -37,7 +37,7 @@ it focuses on bringing in only the records that have matching values in both tab
 
   
 
-![image info](backend-exercises-trybe/sql-joins/pictures/inner-join.png)
+![image info inner-join](pictures/inner-join.png)
 
   
 
@@ -61,7 +61,7 @@ ON c.last_name = a.last_name
 ORDER BY c.last_name;
 ```
 
-![image info](backend-exercises-trybe/sql-joins/pictures/left-join.png)
+![image info left-join](pictures/left-join.png)
 
 - RIGHT JOIN
 
