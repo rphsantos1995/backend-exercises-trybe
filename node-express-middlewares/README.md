@@ -1,4 +1,4 @@
-## What is middlewares? 
+## What are middlewares? 
 
 In Express any function passed to a route is middleware , either directly or indirectly.
 
