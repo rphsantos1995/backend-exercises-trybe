@@ -38,9 +38,9 @@ const express = require('express');
 const router = express.Router(); // name router for best pratices
 
 const recipes = [
-  { id: 1, name: 'Lasanha', preco: 40.0, tempoDePreparo: 30 },
-  { id: 2, name: 'Macarrão a Bolonhesa', preco: 35.0, tempoDePreparo: 25 },
-  { id: 3, name: 'Macarrão com molho branco', preco: 35.0, tempoDePreparo: 25 },
+  { id: 1, name: 'Lasanha', price: 40.0, preparationTime: 30 },
+  { id: 2, name: 'Macarrão a Bolonhesa', price: 35.0, preparationTime: 25 },
+  { id: 3, name: 'Macarrão com molho branco', price: 35.0, preparationTime: 25 },
 ];
 
 function validateName(req, res, next) {
