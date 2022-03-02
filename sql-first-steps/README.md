@@ -75,9 +75,10 @@ CREATE TABLE ProductStore.Products (
 ```
 ## What's a entity?
 
-Uma tabela que representa algum conceito do mundo real que você quer descrever (pessoa, eventos, acontecimentos) e suas propriedades (altura, horário do evento, nome do acontecimento). A entidade pessoa , por exemplo, pode ter as propriedades de altura, peso e idade. Uma entidade festa pode possuir as propriedades horário do evento, público-alvo e data da festa. Por fim, uma entidade venda pode possuir as propriedades valor da venda, dia da venda, produto vendido etc.
-- Entidade : Pessoa
-- Propriedades : Altura, peso, idade.
+A table that represents some real-world concept you want to describe (person, events, happenings) and its properties (height, event time, event name). The person entity, for example, can have height, weight, and age properties. A party entity can have the event time, target audience and party date properties. Finally, a selling entity may own the properties sale value, day of sale, product sold, etc.
+
+- Entity: Person
+- Properties : Height, weight, age.
 
 ## Database relationships
 
