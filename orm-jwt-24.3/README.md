@@ -1,94 +1,94 @@
-Esse projeto é uma API base para ser utilizada na [aula sobre JWT](https://app.betrybe.com/course/back-end/autenticacao-e-upload-de-arquivos/nodejs-jwt-json-web-token/acf1c24f-d531-4cf0-be9b-2384e37799d7/) do curso de NodeJS da Trybe.
+This project is a base API to be used using JWT.
 
-## Baixando o projeto
+## Downloading the project
 
-No seu terminal, cmd, power shell ou bash execute os seguintes comandos:
+In your terminal, cmd, power shell or bash run the following commands:
 
 - `git clone git@github.com:tryber/nodejs-jwt-base-project.git`
 - `cd nodejs-jwt-base-project`
 - `npm i`
 
-## Preparando o ambiente
+## Preparing the environment
 
-- Faça uma cópia do arquivo `.env.example`, criando um arquivo `.env` com as suas credenciais SQL;
-- No seu terminal, execute o comando `npm start`;
-  - Esse comando vai, automaticamente, rodar o script de `prestart`, que inicializará o banco com o `sequelize`.
-- O comando acima irá criar o banco de dados `jwt_exercises_dev` e povoar as tabelas `Users` e `Posts`.
+- Make a copy of the `.env.example` file, creating a `.env` file with your SQL credentials;
+- In your terminal, run the command `npm start`;
+  - This command will automatically run the `prestart` script, which will initialize the database with `sequelize`.
+- The above command will create the `jwt_exercises_dev` database and populate the `Users` and `Posts` tables.
 
-## Estrutura base do projeto
+## Project base structure
 
-Abaixo, está a estrutura base do projeto. Ele implementa uma API em NodeJS e Express que permite criar usuários, listar posts e fazer login. O projeto base contém uma autenticação simples. Durante a aula, é mostrado como adicionar à API autenticação via JWT.
+Below is the base structure of the project. It implements an API in NodeJS and Express that allows creating users, listing posts and logging in. The base project contains a simple authentication. 
  
 ```
 ├── README.md
 ├── api
-│  ├── routes.js
-│  └── server.js
+│ ├── routes.js
+│ └── server.js
 ├── config
-│  └── config.js
+│ └── config.js
 ├── controllers
-│  ├── createUser.js
-│  ├── getUsers.js  
-│  ├── login.js
-│  └── posts.js
+│ ├── createUser.js
+│ ├── getUsers.js
+│ ├── login.js
+│ └── posts.js
 ├── migrations
-│  ├── users.js
-│  └── posts.js  
+│ ├── users.js
+│ └── posts.js
 ├── models
-│  ├── index.js
-│  ├── Post.js
-│  └── User.js
+│ ├── index.js
+│ ├── Post.js
+│ └── User.js
 ├── seeders
-│  ├── users.js
-│  └── posts.js
+│ ├── users.js
+│ └── posts.js
 ├── .env.example
 ├── package-lock.json
 └── package.json
 ```
 
-### Modelos
+### Models
 
-Modelos são responsáveis por fazer o mapeamento entre as entidades que sua aplicação manipula e a camada de dados. Contêm todas as interações responsáveis por ler e escrever dados no seu banco de dados.
+Models are responsible for mapping between the entities your application handles and the data layer. Contain all interactions responsible for reading and writing data in your database.
 
-Estão organizados dentro da pasta `models`.
+They are organized inside the `models` folder.
 
 ### Migrations
 
-Migrations são responsáveis por criar e/ou restaurar as alterações no banco de dados.
+Migrations are responsible for creating and/or restoring changes to the database.
 
-Estão organizados dentro da pasta `migrations` e há uma migration para cada tabela no banco de dados. No exemplo, existem as tabelas `Users` e `Posts`.
+They are organized inside the `migrations` folder and there is a migration for each table in the database. In the example, there are `Users` and `Posts` tables.
 
 ### Seeders
 
-Seeders são responsáveis por povoar os dados das tabelas do banco de dados.
+Seeders are responsible for populating the data in the database tables.
 
-Estão organizadas dentro da pasta `seeders`. No exemplo, existem seeders para as tabelas `Users` e `Posts`.
+They are organized inside the `seeders` folder. In the example, there are seeders for the `Users` and `Posts` tables.
 
 ### Controllers
 
-Controllers são as funções utilizadas como callbacks na definição de rotas.
-Eles são responsáveis por lidar com as requisições que chegam nas diferentes rotas de sua aplicação e criando a resposta que será enviada para o cliente. Normalmente, interagem com um ou mais modelos para ler/escrever dados do banco de dados.
+Controllers are the functions used as callbacks when defining routes.
+They are responsible for handling the requests that arrive in the different routes of your application and creating the response that will be sent to the client. Typically, they interact with one or more models to read/write data from the database.
 
-A API possui quatro controllers:
+The API has four controllers:
 
-  - `createUser.js`: Lida com a criação de novo usuários.
+  - `createUser.js`: Handles the creation of new users.
 
-  - `getUsers.js`: Encontra os usuários cadastrados.
+  - `getUsers.js`: Finds the registered users.
   
-  - `login.js`: Responsável pela lógica de login.
+  - `login.js`: Responsible for the login logic.
 
-  - `posts.js`: Encontra os posts de um usuário.
+  - `posts.js`: Finds a user's posts.
  
 ### `api/routes.js`
 
-Esse é um arquivo que concentra os controllers do projeto.
+This is a file that contains the project controllers.
  
 ### `api/server.js`
 
-Aqui é onde é criado de fato a API com o Express. Também é onde todas as rotas são configuradas.
+This is where the API is actually created with Express. This is also where all routes are configured.
 
 ### `.env.example` -> `.env`
 
-Este arquivo é responsável por guardar os dados sensíveis do servidor. Este arquivo deve ser editado com as credencias MySQL da pessoa desenvolvedora. Neste exemplo, está sendo utilizado o usuário `root` com senha inexistente.
-**⚠️ O arquivo `.env` arquivo não deve ser commitado na esmagadora parte das vezes, pois armazena dados sensíveis. **
-**⚠️ Lembre-se de editar este arquivo com as suas credencias.**
+This file is responsible for storing sensitive server data. This file must be edited with the developer person's MySQL credentials. In this example, the user `root` with no password is being used.
+**⚠️ The `.env` file should not be committed overwhelmingly as it stores sensitive data. **
+**⚠️ Remember to edit this file with your credentials.**
